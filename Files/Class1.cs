@@ -8,5 +8,6 @@ namespace TestProject.Files
 {
     class Class1
     {
+        //made this change in master
     }
 }
