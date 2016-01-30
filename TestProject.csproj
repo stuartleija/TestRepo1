@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="Files\Class1.cs" />
     <Compile Include="Files\Class2.cs" />
+    <Compile Include="Files\Class3.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

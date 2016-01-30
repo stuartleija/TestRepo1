@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace TestProject.Files
 {
-    class Class1
+    class Class3
     {
-        //made this change in branch1 right
+        //add this to branch1.2, the child of branch1
     }
 }
