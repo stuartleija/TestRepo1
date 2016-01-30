@@ -10,6 +10,7 @@ namespace TestProject
     {
         static void Main(string[] args)
         {
+            //add this to branch2, the child of master
         }
     }
 }
